@@ -1,0 +1,22 @@
+{
+  "name": "bubblewrapgba",
+  "version": "1.0.0",
+  "description": "EmulationJS wrapper specialized for GBA games",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/mooonbit/bubblewrap-gba"
+  },
+  "author": "mooonbit",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "electron": "^35.1.5"
+  },
+  "dependencies": {
+    "electron-packager": "^17.1.2"
+  }
+}
